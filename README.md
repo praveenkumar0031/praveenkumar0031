@@ -10,8 +10,8 @@
 ---
 
 ### 🔭 Current Project
-- Working on **Excherish** – A platform to cherish and preserve memories  
-  👉 *Check it out:* https://github.com/praveenkumar0031/ex-cherish
+- Working on **Hash-Tag** – A platform to connect and spill taughts in free time 
+  👉 *Check it out:* https://github.com/praveenkumar0031/hash-tag
 
 ### 💡 What I Do
 - Develop robust backend services using **Java + Spring Boot**
@@ -19,7 +19,7 @@
 - Explore **Cloud, Docker & Microservices** ecosystem  
 
 ### 💬 Ask me about
-- Java | Spring Boot | REST APIs | MongoDB | MySQL | JWT | Docker  
+- Java | Spring Boot | REST APIs | MySQL | JWT | Docker | MERN stack
 
 ### 📌 Portfolio
 Check all my projects here ⬇️  
