@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-praveen--kumar--s-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPRAVEEN_KUMAR-S&logo=leetcode&logoColor=yellow" alt="Profile Views" />
+  <a href="https://praveenkumar0031.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-0EA5E9?style=flat-square" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -74,6 +75,7 @@ I bridge the gap between complex backend engineering, DevOps, and interactive us
 Developed a fast, lightweight URL shortening system capable of handling high-volume link redirections. Implemented an efficient hashing algorithm for unique slug generation, custom short link creation, and automated real-time click tracking analytics.
 
 `Node.js` `Express.js` `MongoDB` `Redis Cache`
+
 ---
 
 ### 🔄 [SkyFlow](https://github.com/praveenkumar0031/Sky-flow) — Automated GitOps CI/CD Pipeline
