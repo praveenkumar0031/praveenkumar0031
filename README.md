@@ -1,73 +1,98 @@
 <div align="center">
 
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=220&section=header&text=Praveen%20Kumar%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20%2F%20Cloud%20Enthusiast%20%7C%20Published%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+
 <!-- Dynamic Typing Header -->
 <a href="https://github.com/praveenkumar0031">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Praveen+Kumar+S+%F0%9F%91%8B;Full-Stack+Developer;DevOps+%2F+Cloud+Enthusiast;Published+Researcher+%F0%9F%93%9D;Building+Scalable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Praveen+Kumar+S+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;DevOps+%2F+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Published+Researcher+%F0%9F%93%9D;Building+Scalable+Software+%E2%9A%A1;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges Row -->
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-0EA5E9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-1%20Published-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SE%20Roles-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-0EA5E9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-8.57%2F10-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-1%20Published-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SE%20Roles-6366F1?style=for-the-badge" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/praveen-kumar-s-38b971288">
-    <img src="https://img.shields.io/badge/LinkedIn-praveen--kumar--s-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-praveen--kumar--s-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPRAVEEN_KUMAR-S&logo=leetcode&logoColor=yellow" alt="Profile Views" />
-  <a href="https://praveenkumar0031.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-0EA5E9?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://praveenkumar0031.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=praveenkumar0031&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
 
----
+<br/>
 
 ## ⚡ About Me
 
-I'm a **Final-year B.Tech IT student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore — building robust full-stack applications, automated pipelines, and intelligent systems from the ground up.
+```yaml
+name: Praveen Kumar S
+role: Final-year B.Tech IT Student
+location: Coimbatore, India
+current_focus: Full-Stack Development, DevOps & Cloud Automation
+looking_for: Software Engineering / Full-Stack / DevOps internships & junior roles
+fun_fact: "I debug faster with music on 🎧 — and I ship things that scale."
+```
 
-I bridge the gap between complex backend engineering, DevOps, and interactive user interfaces. From engineering real-time communication platforms to deploying automated cloud pipelines and publishing deep learning research, I focus on building software that scales. I'm actively seeking **Software Engineering, Full-Stack Developer, and DevOps internship or junior roles**.
+I bridge the gap between complex backend engineering, DevOps, and interactive user interfaces. From engineering real-time communication platforms to deploying automated cloud pipelines and publishing deep learning research, I focus on building software that scales.
 
 - 💻 &nbsp;Deeply passionate about **Full-Stack Development (MERN, Java Spring Boot, Next.js)**
 - ⚙️ &nbsp;Hands-on experience with **DevOps, CI/CD pipelines, and Cloud Infrastructure (AWS)**
 - 📱 &nbsp;Experienced in mobile app development using **Flutter and Firebase for IoT ecosystems**
 - 📜 &nbsp;**Published Researcher** — Published a paper on computer vision and object detection
 - 🧠 &nbsp;Avid competitive programmer, actively solving complex algorithmic problems on **LeetCode**
+- ⚡ &nbsp;Fun fact: I once automated a deployment pipeline just so I wouldn't have to click "deploy" manually ever again
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
-### Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<div align="center">
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Backend & Core**
 
-### DevOps & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,spring&theme=dark" />
 
----
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,flutter&theme=dark" />
+
+**DevOps & Databases**
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,ansible,aws,mongodb,firebase,redis&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/praveenkumar0031/go-to">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=praveenkumar0031&repo=go-to&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/praveenkumar0031/Sky-flow">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=praveenkumar0031&repo=Sky-flow&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/praveenkumar0031/hash-tag">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=praveenkumar0031&repo=hash-tag&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ### 🔗 [GoTo](https://github.com/praveenkumar0031/go-to) — URL Shortener
 > High-performance link management platform
@@ -94,8 +119,7 @@ Built a secure, real-time group messaging web application using the MERN stack. 
 
 `MongoDB` `Express.js` `React` `Node.js` `Socket.io` `WebSockets`
 
----
-
+<br/>
 
 ## 📜 Research & Certifications
 
@@ -107,23 +131,41 @@ Built a secure, real-time group messaging web application using the MERN stack. 
 | 4 | JPMorgan Chase & Co. | Software Engineering Job Simulation | ✅ Completed |
 | 5 | Infosys Springboard | Software Engineering & Agile Training | ✅ Completed |
 
----
+<br/>
+
+## 📊 Stats & Streaks
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=praveenkumar0031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=praveenkumar0031&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=praveenkumar0031&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
 ## 📊 LeetCode Stats
 <div align="center">
   <img src="https://www.readmecodegen.com/api/leetcode-stats?username=PRAVEEN_KUMAR-S&theme=github_dark" alt="LeetCode Stats" />
 </div>
 
----
-## 📈 GitHub Stats
+
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenkumar0031&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/praveenkumar0031/praveenkumar0031/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
+> 💡 To activate this: add the **[Platane/snk](https://github.com/Platane/snk)** GitHub Action to a repo named exactly like your username, so it generates and commits `github-contribution-grid-snake.svg` to an `output` branch — then this image goes live automatically.
 
----
-## 🏆 Highlights
+<br/>
+
+## 🎯 Highlights
 
 <div align="center">
 
@@ -131,26 +173,35 @@ Built a secure, real-time group messaging web application using the MERN stack. 
 |---|---|
 | Core Engineering | Full-Stack Development (MERN, Java) |
 | DevOps & Cloud | CI/CD Pipelines, Infrastructure as Code, Docker, AWS |
-| Research & Logic | Published Author  · LeetCode Problem Solver |
+| Research & Logic | Published Author · LeetCode Problem Solver |
 | Current Status | Final Year B.Tech IT · CGPA 8.57 · Coimbatore, India |
 | Open To | Full-Stack, Software Engineering & DevOps Roles |
 
 </div>
 
----
+<br/>
+
+## 💭 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-If you're looking for an adaptable developer who loves automation, scaling backends, and building interactive interfaces—let's chat!
+If you're looking for an adaptable developer who loves automation, scaling backends, and building interactive interfaces — let's chat!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveen-kumar-s-38b971288)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/praveenkumar0031)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praveenkumar0031.github.io/portfolio)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⚡ Architecting pipelines · Engineering features · Shipping reliable code</sub>
